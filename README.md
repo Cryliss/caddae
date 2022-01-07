@@ -5,18 +5,6 @@ This project was inspired by Computer Aided Design and Drafting (CADD) software,
 
 The goal of this program is to see if it's possible to automate the process of creating and maintaining running AsBuilts, which is something I do for my current job as a project coordinator for a construction company.
 
-<details><summary>Example of Redline</summary>
-
-**Redline**
-![Example_Redline](/uploads/46848b6ff2f709dbdbe58513a8cf30e5/Example_Redline.png)
-</details>
-
-<details><summary>Example of Running AsBuilt</summary>
-
-**Running AsBuilt**
-![Example_Running_AsBuilt](/uploads/b3b3a8664185d89154104fea34cd22a7/Example_Running_AsBuilt.png)
-</details>
-
 ## Installation
 1. Install [Go](https://go.dev/) on your computer, if you haven't already.
 2. Download the source code and move into your `go/src/` folder.
