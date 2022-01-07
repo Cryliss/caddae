@@ -40,7 +40,7 @@ Once all information has been entered, click the 'Create!' button to begin the p
 
 After that, you can view what's happening during the process in the 'Log' panel.
 
-![CADDAE_UI_FILLED_IN](/uploads/0ca95ddd0086a329327c8e59d9a8980e/Final_UI.png)
+![CADDAE_UI_FILLED_IN](https://github.com/Cryliss/caddae/blob/main/testfiles/Final_UI.png)
 
 ## Contribution
 Sabra Bilodeau
