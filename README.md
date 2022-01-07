@@ -49,4 +49,4 @@ Sabra Bilodeau
 This project is under the MIT License.
 
 ## Project status
-No longer under development.
+**INCOMPLETE** No longer under development.
